@@ -15,3 +15,7 @@ func PrintMyName() {
 	fmt.Println("My name is Mike")
 	fmt.Println("Bug fixed")
 }
+
+func homework() {
+
+}

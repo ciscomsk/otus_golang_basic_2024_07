@@ -13,4 +13,5 @@ func Function() {
 
 func PrintMyName() {
 	fmt.Println("My name is Mike")
+	fmt.Println("Bug fixed")
 }
